@@ -1,0 +1,2 @@
+
+Clothesid: 0000, name: dsd, description: sdsd, brand: sds, price: 2332.0, cant: 232 [sizes=[], colors=[]]

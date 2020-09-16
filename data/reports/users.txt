@@ -1,0 +1,4 @@
+id type;Nombre;id
+CC;admin;1234
+CEDULA DE CUIDADANIA;admin;sebastian
+TARJETA IDENTIDAD;se;se
